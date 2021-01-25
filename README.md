@@ -13,7 +13,7 @@
 
 ## Deployed Application
 
-[Fitness-Tracker Heroku Deploy Link](https://quokka-marketplace-devdan13.herokuapp.com/)
+[Fitness-Tracker Heroku Deploy Link](https://workouttracker13.herokuapp.com/)
 
 ## Description
 This Application allows the user to track their workouts over a 7 day period.  The dashboard will chart out the excercise types, as well as graph  the pounds lifted and duration of the exercises.  The main page will display the last workout only.  beneath these stats will be the options to add and complete another workout.
